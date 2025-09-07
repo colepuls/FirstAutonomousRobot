@@ -39,15 +39,8 @@ The full source code is included in this repository under [`main.cpp`](./main.cp
 
 ---
 
-## Photos & Videos
-
-- **Photos**:  
-  ![Robot](./assets/IMG_0051.png)  
+## Photos & Videos  
   ![Robot](./assets/IMG_0052.png)
-  ![Robot](./assets/IMG_0053.png)
-  ![Robot](./assets/IMG_0054.png)
-
-- **Videos**:
   [![Watch the robot in action](https://img.youtube.com/vi/Cd_WDKgfvsY/0.jpg)](https://www.youtube.com/shorts/Cd_WDKgfvsY)
 
 ---
