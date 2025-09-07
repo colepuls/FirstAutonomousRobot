@@ -42,7 +42,7 @@ The full source code is included in this repository under [`main.cpp`](./main.cp
 ## Photos & Videos
 
 - **Photos**:  
-  ![Robot Front View](./images/front.jpg)  
+  ![Robot Front View](./assets/IMG_0051.HEIC)  
   ![Robot Side View](./images/side.jpg)  
 
 - **Videos**:  
