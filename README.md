@@ -62,4 +62,4 @@ Through this project I learned how to:
 This is just the start for me
 
 ---
-Made by Cole Puls
+**Made by Cole Puls**
