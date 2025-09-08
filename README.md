@@ -22,7 +22,7 @@ When the sensor detects an obstacle within a set distance, the robot automatical
 - Autonomous forward movement with obstacle avoidance  
 - Ultrasonic distance sensing  
 - Servo motor control for basic navigation  
-- Built as a beginner-friendly introduction to robotics and embedded systems  
+- My introduction to robotics and embedded systems  
 
 ---
 
