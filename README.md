@@ -1,5 +1,8 @@
 # First Autonomous Robot
 
+##Built with
+![Tools](https://skillicons.dev/icons?i=arduino,cpp)
+
 This project is my first robot, built and coded from scratch with no prior robotics experience. While I had a background in C/C++, I had never worked with Arduino, servos, or sensors before. I wanted to challenge myself by building something tangible and functional — this robot is the result.  
 
 It marks the beginning of my robotics journey, combining coding, electronics, and 3D printing into a single project.  
