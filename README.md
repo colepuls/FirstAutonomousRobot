@@ -1,4 +1,4 @@
-# First Autonomous Robot
+# Autonomous Robot
 
 ![Tools](https://skillicons.dev/icons?i=arduino,cpp)
 
