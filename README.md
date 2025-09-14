@@ -60,4 +60,5 @@ Through this project I learned how to:
 This is just the start for me
 
 ---
+See the video of me making the robot here: https://www.youtube.com/watch?v=83ekn_0ZCv4
 **Made by Cole Puls**
